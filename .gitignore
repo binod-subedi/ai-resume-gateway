@@ -1,0 +1,8 @@
+.env
+venv/
+01_syntax_practice.py
+02_data_manipulation.py
+03_working_with_api.py
+04_ai_json_response.py
+05_nested_data.py
+06_token_usage.py
