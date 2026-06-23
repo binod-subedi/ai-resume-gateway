@@ -6,4 +6,5 @@ venv/
 04_ai_json_response.py
 05_nested_data.py
 06_token_usage.py
+10_vectors.py
 *.db
