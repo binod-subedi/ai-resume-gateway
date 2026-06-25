@@ -7,4 +7,5 @@ venv/
 05_nested_data.py
 06_token_usage.py
 10_vectors.py
+candidate_vector
 *.db
