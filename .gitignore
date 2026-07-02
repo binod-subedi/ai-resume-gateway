@@ -9,3 +9,4 @@ venv/
 10_vectors.py
 candidate_vector
 *.db
+.DS_Store
